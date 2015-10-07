@@ -1,0 +1,6 @@
+1,sai,101
+2,karthik,102
+3,rohit,101
+4,venkat,103
+5,LN,102
+6,sadiq,105
